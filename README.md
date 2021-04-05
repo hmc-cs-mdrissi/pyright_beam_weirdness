@@ -1,0 +1,1 @@
+# pyright_beam_weirdness
